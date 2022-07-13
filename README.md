@@ -7,7 +7,7 @@ This Django application is a simple app for the staff.
   1.4 Boss<br/>
 2. Every employee has 1 boss(relation is foreign key) ManyToOneField
 3. User roles - employee, boss
-4. Implemented every task:
+4. Implemented every task:<br/>
     4.1 Created database with the help of migrations in django
     4.2 Added with the help of DB Seeder 50k employee<br/>
     4.3 Created one request to send the list of employees with all information from database<br/>
