@@ -23,11 +23,12 @@ I have used PostgreSQL and DRF-Orm and DRF and Python3
 
 ### Start the Project
 >Firstly you need to connect to your local database;<br/>
->Then run db seed;<br/>
 >Activate your venv;<br/>
 >venv/Scripts/activate;<br/>
 >python manage.py makemigrations;<br/>
 >python manage.py migrate;<br/>
+>Then run db seed;<br/>
+>python manage.py seed assignment --number=50 000;<br/>
 >python manage.py runserver;<br/>
 >Check all points above;<br/>
 
