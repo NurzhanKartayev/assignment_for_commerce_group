@@ -1,10 +1,10 @@
 # __Task__
 This Django application is a simple app for the staff.
 1. Information about each employee has stored in a database and contain the following data
-  1.1 First_name, Second_name and Middle_name(optional)
-  1.2 Salary
-  1.3 Position
-  1.4 Boss
+  1.1 First_name, Second_name and Middle_name(optional)<br/>
+  1.2 Salary<br/>
+  1.3 Position<br/>
+  1.4 Boss<br/>
 2. Every employee has 1 boss(relation is foreign key) ManyToOneField
 3. User roles - employee, boss
 4. Implemented every task:
