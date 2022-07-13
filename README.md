@@ -14,8 +14,8 @@ This Django application is a simple app for the staff.
     4.4 Added an opportunity to search by fields<br/>
     4.5 Added an opportunity to order by fields<br/>
     4.6 Authorization with JWT<br/>
-    4.7 Added the permission for 4.3, 4.4, 4.5 available only for registered users
-    4.8 For registered users realized all CRUD operations and editable
+    4.7 Added the permission for 4.3, 4.4, 4.5 available only for registered users<br/>
+    4.8 For registered users realized all CRUD operations and editable<br/>
 
 I have used PostgreSQL and DRF-Orm and DRF and Python3
 
