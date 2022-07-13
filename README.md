@@ -1,6 +1,6 @@
 # __Task__
 This Django application is a simple app for the staff.
-1. Information about each employee has stored in a database and contain the following data
+1. Information about each employee has stored in a database and contain the following data<br/>
   1.1 First_name, Second_name and Middle_name(optional)<br/>
   1.2 Salary<br/>
   1.3 Position<br/>
