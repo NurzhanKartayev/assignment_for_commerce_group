@@ -31,3 +31,4 @@ I have used PostgreSQL and DRF-Orm and DRF and Python3
 >python manage.py runserver;<br/>
 >Check all points above;<br/>
 
+### Spent time 1 hour 30 min
